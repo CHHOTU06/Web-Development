@@ -1,0 +1,9 @@
+body{
+    margin-left: 10%;
+}
+
+button{
+    width: 35%;
+    background-color: black;
+    color: lime;
+}
